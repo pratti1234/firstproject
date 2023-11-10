@@ -12,7 +12,7 @@ def pypart(n):
 		for j in range(0, i+1):
 		
 			# printing stars
-			print("gayatri")
+			print("gay")
 	
 		# ending li
 n = 5
