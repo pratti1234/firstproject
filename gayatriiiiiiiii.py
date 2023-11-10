@@ -16,7 +16,5 @@ def pypart(n):
 	
 		# ending line after each row
 		print("\r")
-
-# Driver Code
 n = 5
 pypart(n)
