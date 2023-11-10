@@ -14,7 +14,6 @@ def pypart(n):
 			# printing stars
 			print("gayatri")
 	
-		# ending line after each row
-		print("\r")
+		# ending li
 n = 5
 pypart(n)
